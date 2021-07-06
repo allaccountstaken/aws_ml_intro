@@ -1,5 +1,7 @@
 # aws_ml_intro
 sandbox for AWS Machine Learning Foundation course
 
-1. Step one
+Notes
+1. Step one -- RL for anomaly detection and/or special case of trading strategy backtesting
+3. Steo one -- generative AI, specifically autoregressive convolutional neural network (AR-CNN) for a process that evolves through time (additive history)
 
